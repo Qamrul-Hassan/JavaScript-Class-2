@@ -1,3 +1,3 @@
-let no= [10,20,30,40]
-no.pop()
-console.log(no)
+let no = [1, 2, 3, 4, 5];
+no.pop();
+console.log(no);
