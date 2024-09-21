@@ -1,3 +1,3 @@
-let no1 =['a','c','d','e','f']
-let no2= no1.at(4)
-console.log(no2)
+let no = [10, 20, 30, 40, 50];
+let access = no.at(2);
+console.log(access);
