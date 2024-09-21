@@ -1,3 +1,3 @@
-let numb= [2,3,4]
-numb.unshift(1)
-console.log(numb)
+let aray = ['boat', 'ship'];
+aray.unshift('train', 'plane');
+console.log(aray);
