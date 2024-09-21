@@ -1,3 +1,3 @@
-let numb=[10,20,30,40];
-numb.splice(2,1,"Empty")
-console.log(numb)
+let animal = ['dog', 'cat', 'bird'];
+delete animal[1];
+console.log(animal);
