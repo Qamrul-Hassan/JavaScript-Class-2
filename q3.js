@@ -1,3 +1,3 @@
-let name1 =["My", "Name", "is", "Shahed", "rahman"]
-let join = name1.join(" ")
-console.log(join)
+let color = ['red', 'green', 'blue'];
+let clrJoin = color.join('-');
+console.log(clrJoin);
