@@ -1,3 +1,3 @@
-let numb=[5,10,15]
-numb.splice(0,1)
-console.log(numb)
+let ele = ['car', 'bike', 'bus'];
+ele.shift(0);
+console.log(ele);
