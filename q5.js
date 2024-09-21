@@ -1,3 +1,3 @@
-let froot= ["Apple", "Bannana","Mango"];
-froot.push("Orange")
-console.log(froot)
+let fruits = ['apple', 'banana'];
+fruits.push('grape');
+console.log(fruits);
